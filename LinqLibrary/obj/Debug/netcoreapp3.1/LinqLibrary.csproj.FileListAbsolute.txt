@@ -1,0 +1,10 @@
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\bin\Debug\netcoreapp3.1\LinqLibrary.deps.json
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\bin\Debug\netcoreapp3.1\LinqLibrary.dll
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\bin\Debug\netcoreapp3.1\LinqLibrary.pdb
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.AssemblyInfoInputs.cache
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.AssemblyInfo.cs
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.dll
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.pdb
+C:\Users\rafeeq.mohammad\source\repos\VTutorials\LinqLibrary\obj\Debug\netcoreapp3.1\LinqLibrary.csproj.AssemblyReference.cache
